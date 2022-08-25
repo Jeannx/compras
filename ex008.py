@@ -1,3 +1,5 @@
+#programa que determina desconto ou juros de uma compra
+#de acordo com a forma de pagamento
 preço=float(input('Valor das compras:R$'))
 print('''FORMAS DE PAGAMENTO:
 [ 1 ] á vista dinheiro/cheque
